@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Solution1\\ChessUI\\ChessUI.csproj": {}
+    "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Chess\\ChessUI\\ChessUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Solution1\\ChessLogic\\ChessLogic.csproj": {
+    "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Chess\\ChessLogic\\ChessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Solution1\\ChessLogic\\ChessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Chess\\ChessLogic\\ChessLogic.csproj",
         "projectName": "ChessLogic",
-        "projectPath": "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Solution1\\ChessLogic\\ChessLogic.csproj",
+        "projectPath": "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Chess\\ChessLogic\\ChessLogic.csproj",
         "packagesPath": "C:\\Users\\tader\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Solution1\\ChessLogic\\obj\\",
+        "outputPath": "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Chess\\ChessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Solution1\\ChessUI\\ChessUI.csproj": {
+    "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Chess\\ChessUI\\ChessUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Solution1\\ChessUI\\ChessUI.csproj",
+        "projectUniqueName": "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Chess\\ChessUI\\ChessUI.csproj",
         "projectName": "ChessUI",
-        "projectPath": "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Solution1\\ChessUI\\ChessUI.csproj",
+        "projectPath": "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Chess\\ChessUI\\ChessUI.csproj",
         "packagesPath": "C:\\Users\\tader\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Solution1\\ChessUI\\obj\\",
+        "outputPath": "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Chess\\ChessUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Solution1\\ChessLogic\\ChessLogic.csproj": {
-                "projectPath": "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Solution1\\ChessLogic\\ChessLogic.csproj"
+              "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Chess\\ChessLogic\\ChessLogic.csproj": {
+                "projectPath": "C:\\Users\\tader\\Documents\\Personal Projects Lol\\Chess\\Chess\\ChessLogic\\ChessLogic.csproj"
               }
             }
           }

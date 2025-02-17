@@ -9,11 +9,41 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Assets\bB.svg" />
+    <None Remove="Assets\bK.svg" />
+    <None Remove="Assets\bN.svg" />
+    <None Remove="Assets\bP.svg" />
+    <None Remove="Assets\bQ.svg" />
+    <None Remove="Assets\bR.svg" />
+    <None Remove="Assets\brown.png" />
+    <None Remove="Assets\horsey.png" />
+    <None Remove="Assets\wB.svg" />
+    <None Remove="Assets\wK.svg" />
+    <None Remove="Assets\wN.svg" />
+    <None Remove="Assets\wP.svg" />
+    <None Remove="Assets\wQ.svg" />
+    <None Remove="Assets\wR.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ChessLogic\ChessLogic.csproj" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Assets\" />
+    <Resource Include="Assets\bB.svg" />
+    <Resource Include="Assets\bK.svg" />
+    <Resource Include="Assets\bN.svg" />
+    <Resource Include="Assets\bP.svg" />
+    <Resource Include="Assets\bQ.svg" />
+    <Resource Include="Assets\bR.svg" />
+    <Resource Include="Assets\brown.png" />
+    <Resource Include="Assets\horsey.png" />
+    <Resource Include="Assets\wB.svg" />
+    <Resource Include="Assets\wK.svg" />
+    <Resource Include="Assets\wN.svg" />
+    <Resource Include="Assets\wP.svg" />
+    <Resource Include="Assets\wQ.svg" />
+    <Resource Include="Assets\wR.svg" />
   </ItemGroup>
 
 </Project>

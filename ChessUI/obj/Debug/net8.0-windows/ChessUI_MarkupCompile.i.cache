@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\tader\Documents\Personal Projects Lol\Chess\Solution1\ChessUI\obj\Debug\net8.0-windows\
+C:\Users\tader\Documents\Personal Projects Lol\Chess\Chess\ChessUI\obj\Debug\net8.0-windows\
 ChessUI
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\tader\Documents\Personal Projects Lol\Chess\Solution1\ChessUI\App.xaml
+C:\Users\tader\Documents\Personal Projects Lol\Chess\Chess\ChessUI\App.xaml
 11407045341
 
 6818129576
-199131992522
+199983751464
 MainWindow.xaml;
 
-False
+True
 
